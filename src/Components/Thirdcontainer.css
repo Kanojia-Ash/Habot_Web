@@ -1,0 +1,37 @@
+.Thirdcontainer{
+    margin: 40px 0px 40px;
+    display: flex;
+    justify-content: center;
+
+}
+.parscont{
+    width: 50%;
+    margin: auto;
+    margin: 30px 80px;
+    
+    
+}
+.parscont h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+.parscont p{
+    margin-top: 20px;
+    width: 60%;
+    font-size:12px;
+    display: flex;
+    justify-content: center;
+    color: #000;
+}
+.button_cont{
+    width: 50%;
+    margin: auto;
+}
+.thirbut{
+  
+    margin: 5px;
+    background-color: #fff;
+    padding: 13px 70px;
+    color: #000 ;
+    border: 1px solid  rgba(231, 118, 13, 1);
+}

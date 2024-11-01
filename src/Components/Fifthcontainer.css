@@ -1,0 +1,28 @@
+.fifth{
+    background-color:  rgba(232, 251, 255, 1);
+    width: 100%;
+    height: 150px;
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+.heading h1{
+  
+  text-align: center;
+   height: 150px ;
+   align-content: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+.fifthbtn{
+    text-align: center;
+     height: 150px ;
+     align-content: center;
+     
+  }
+  .fifthbtn button{
+    background-color: rgba(235, 113, 80, 1);
+    color: #fff;
+    font-weight: 500;
+    border-radius: 2px;
+  }

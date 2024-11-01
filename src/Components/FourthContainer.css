@@ -1,0 +1,56 @@
+.fourthcontainer{
+    height: 350px;
+    width: 90%;
+    background-color: rgba(18, 53, 87, 1);
+    margin: 0px 50px 70px 70px;
+    display: flex;
+    
+}
+.videocontainer{
+    width: 50%;
+   
+    display: grid;
+    justify-content: center;
+   text-align: center;
+   
+}
+iframe{
+    margin-top: 50px;
+    width: 400px;
+    height: 225px;
+    border-radius: 5px;
+}
+.supplierbtn{
+    margin-top: 50px ;
+    width: 50%;
+}
+.buybtn{
+    font-weight: 600;
+    font-size: 14px;
+    color:rgba(235, 113, 80, 1);
+    background-color: rgba(18, 53, 87, 1);
+    border-bottom: 4px solid rgba(235, 113, 80, 1);
+    border-radius: 0px;
+}
+.supbtn{
+    font-weight: 600;
+    color: #fff;
+    font-size: 14px;
+    background-color: rgba(18, 53, 87, 1);
+}
+.check_container{
+    margin-top: 25px;
+}
+.check_container i{
+    color: #fff;
+    font-size: 12px;
+    margin: 5px;
+    background-color: rgba(10, 160, 110, 1);
+    border-radius: 25px;
+   
+}
+
+.check_container span{
+    color: #fff;
+    font-size: 12px;
+}

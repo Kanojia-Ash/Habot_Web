@@ -1,0 +1,44 @@
+*{
+     font-family: "Poppins", sans-serif;;
+}
+.bannercontainer{
+    background-image:  linear-gradient(356.01deg, rgba(7, 47, 87, 0.75) 50.8%, rgba(7, 47, 87, 0) 94.58%),
+    linear-gradient(0deg, rgba(7, 47, 87, 0.45), rgba(7, 47, 87, 0.45)),url(images/background.png);
+    height: 409px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    margin: auto;
+    
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+       
+}
+.poster h1{
+    font-weight: 300;
+
+}
+
+
+button{
+    background-color: rgba(255, 255, 255, 1);
+    color:#6D6E71;
+  padding: 15px 35px ;
+  margin: 2px;
+  border-radius: 2px;
+  border :none;
+  font-size: 12px;  
+}
+button i{
+    font-size: 18px;
+    margin-right: 6px;
+    color: rgba(231, 118, 13, 1);
+
+}
+.next_para{
+    margin-top: 30px;
+}

@@ -1,0 +1,29 @@
+.subsection{
+  
+    height: 86px;
+    display: flex;
+ 
+}
+.logo{
+   width: 50%;
+   margin-top: 15px;
+}
+.headings{
+    color:#6D6E71;
+    display: flex;
+
+   gap : 45px;
+   width: 55%;
+   padding-left: 200px;
+   margin-top: 20px;
+}
+.headings p{
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.headerbutton button{
+    font-size: 14px;
+    margin: 5px;
+    font-weight: 600;
+}
